@@ -77,5 +77,11 @@
     .card p {
         font-size: 1.5rem;
     }
+    #about h1 {
+        font-size: 3rem;
+    }
+    #contact h1 {
+        font-size: 3rem;
+    }
 }
 
